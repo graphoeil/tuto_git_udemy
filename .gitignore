@@ -1,0 +1,4 @@
+# Liste des fichiers à ignorer
+tmp/todo.txt
+# ou tmp/*
+# ou *.txt ...
