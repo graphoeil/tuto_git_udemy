@@ -1,5 +1,4 @@
 # Liste des fichiers à ignorer
 tmp/*
 *.txt
-*.doc
 *.psd
