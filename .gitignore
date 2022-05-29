@@ -1,4 +1,4 @@
 # Liste des fichiers à ignorer
 tmp/todo.txt
 tmp/*
-# ou *.txt ...
+*.txt
