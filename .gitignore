@@ -1,5 +1,4 @@
 # Liste des fichiers à ignorer
-tmp/todo.txt
 tmp/*
 *.txt
 *.doc
